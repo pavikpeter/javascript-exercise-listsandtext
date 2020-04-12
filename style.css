@@ -1,0 +1,18 @@
+h1{
+  color: crimson;
+}
+h2{
+  color:darkorchid;
+}
+h3{
+  font-weight:normal;
+}
+.col{
+  color:magenta;
+}
+.underline{
+  text-decoration-line: underline;
+}
+.sq{
+  list-style-type: square;
+}
